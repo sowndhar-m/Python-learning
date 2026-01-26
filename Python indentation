@@ -1,4 +1,0 @@
-Python indentation : 
-    Indentation is refer to the spaces at the beginning of a code line. Its very important in python and its indicate a block of code. If skip the indentation its error.
-    eg : if 5 > 2:
-            print("Five is greater than two!")

@@ -1,0 +1,9 @@
+# Python indentation : 
+#     Indentation is refer to the spaces at the beginning of a code line. Its very important in python and its indicate a block of code. If skip the indentation its error.
+#     eg : if 5 > 2:
+#             print("Five is greater than two!")
+
+# Statement :
+#   in Python, a statement usually ends when the line ends. You do not need to use a semicolon (;) like in many other programming languages (for example, Java or C).
+print("Sowndhar")
+print("raj")
